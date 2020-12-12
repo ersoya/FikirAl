@@ -11,4 +11,4 @@ I cannot include the source code due to company privacy.
 
 <hr>
 
-<img src="screenshots/welcome.png" width="200" height="400"> <img src="screenshots/home.png" width="200" height="400">
+<img src="screenshots/fikiral_home.png" width="200" height="400"> <img src="screenshots/fikiral.png" width="200" height="400">
